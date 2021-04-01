@@ -31,3 +31,5 @@ while(True):
     a = img.draw_string(2,2, ("%2.1ffps" %(fps)), color=(0,128,0), scale=2)
     a = lcd.display(img)
 a = kpu.deinit(task)
+
+#teste_github
